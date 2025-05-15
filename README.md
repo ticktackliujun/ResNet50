@@ -1,0 +1,2 @@
+# ResNet50
+这个项目的目标是使用Python和PyTorch框架微调ResNet的预训练模型，之后导出为ONNX格式，并在C++中使用OpenCV的DNN模块进行推理
